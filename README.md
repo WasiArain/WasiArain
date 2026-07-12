@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WasiArain
 - 👀 I’m a Web Developer
-- 🌱 I’m currently learning React.js
+- 🌱 I never stop, learning on daily-basis
 - 💞️ I’m looking to collaborate on Website Developments
 - 📫 How to reach me? You can reach me through Twitter or LinkedIn.
 
